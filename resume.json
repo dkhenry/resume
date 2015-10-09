@@ -1,0 +1,161 @@
+{
+	"basics": {
+		"name": "Daniel Kozlowski",
+		"label": "Technologist",
+		"picture": "",
+		"email": "dan.kozlowski@gmail.com",
+		"phone": "(762) 333-1354",
+		"website": "dkhenry.com",
+		"summary": "A tenured technologist with a proven record of solid design and reliable deployment",
+		"location": {
+			"address": "391 Ivy Mills Rd",
+			"postalCode": "PA 19342",
+			"city": "Glen Mills",
+			"Country Code": "US",
+			"region": "Philadelphia"
+		},
+		"profiles": [{
+			"network": "Google Plus",
+			"username": "dan.kozlowski",
+			"url": "https://plus.google.com/u/1/+DanKozlowski"
+		},{
+			"network": "GitHub",
+			"username": "dkhenry",
+			"url": "https://github.com/dkhenry"
+		},{
+			"network": "Bitbucket",
+			"username": "dkhenry",
+			"url": "https://bitbucket.org/dkhenry/"
+		}]
+	},
+	"work": [{
+		"company": "SevOne",
+		"position": "Director of Engineering",
+		"website": "https://sevone.com",
+		"startDate": "2013-09-01",
+		"endDate": "2015-11-01",
+		"summary": "Led the Engineering department as Director of Engineering",
+		"highlights": [
+			"Helped grow team from start up through billion valuation",
+			"Managed team of sixty developers and forty contractors", 
+			"Provided technical leadership across entire NMS product",
+			"Oversaw multiple major product release cycles from inception to deployment"
+		]
+	},{
+		"company": "SevOne",
+		"position": "Sr. Developer",
+		"website": "https://sevone.com",
+		"startDate": "2010-02-01",
+		"endDate": "2013-09-01",
+		"summary": "Core contributor to NMS product",
+		"highlights": [
+			"Designed and implemented multiple new collection technologies for NMS",
+			"Contributed to improved of scaleable clustered data collection platform",
+			"Optimized data storage and retrieval components of NMS system",
+			"Mentored and consulted Jr Developers"
+		]
+	},{
+		"company": "Naval Surface Warfare Center",
+		"position": "Computer Engineer",
+		"startDate": "2003-09-01",
+		"endDate": "2010-01-31",
+		"summary": "Design, deployed, and maintained computer control systems for US Warships",
+		"highlights": [
+			"Maintained worlds largest Profibus network",
+			"Developed custom overlay OS for Siemens 400 series PLC's",
+			"Implemented GUI interface library for control of PLC from PC workstation",
+			"Circuit design and troubleshooting",
+			"Design of land based simulation and testing laboratory",
+			"L2/L3 network design and maintenance"
+		]
+	}],
+	"education": [{
+		"institution": "Drexel University",
+		"area": "Computer Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2001-09-01",
+		"endDate": "2006-06-01"
+	}],
+	"awards": [{
+		"name": "NSWCCD Command Award",
+		"date": "2007-03-01",
+		"awarder": "Naval Surface Warfare Center",
+		"summary": "Awarded for excellence in support of the Fleet"
+	}],
+	"publications": [{		
+		"name": "Redundancy in General Purpose Software Configured Control System for Critical Ship Systems",
+		"publisher": "14th International Ships Control Symposium",
+		"releaseDate":"2009-09-01",
+		"webSite": "",
+		"summary": "Method and design of redundant software configured control systems to allow enhanced reliability under failure conditions"
+	}],
+	"skills": [{
+		"name": "Software Design and Architecture",
+		"level": "Master",
+		"keywords": [
+			"C",
+			"C++",
+			"Java",
+			"J2EE",
+			"Scala",
+			"Rust",
+			"Javascript",
+			"Test Driven Development",
+			"Software Architecture"
+		]
+	},{
+		"name": "Continuous Deployment",
+		"level": "Intermediate",
+		"keywords": [
+			"DevOpts",
+			"Cloud",
+			"AWS",
+			"Ansible",
+			"Chef"
+		]
+	},{
+		"name": "Database Design and Optimization",
+		"level": "Advanced",
+		"keywords": [
+			"SQL",
+			"NoSQL",
+			"MySQL",
+			"Relation Databases",
+			"Clusted Datastores",
+			"Custom Database Development",
+			"Time Series Database"
+		]
+	}],
+	"interests": [{
+		"name": "Language Theory",
+		"keywords": [
+			"Functional Programming",
+			"Language Design",
+			"Esoteric Programming Languages",
+			"Domain Specific Languages"
+		]
+	},{
+		"name": "Embedded Systems",
+		"keywords": [
+			"Arduino",
+			"Microcontrollers",
+			"Electronics"
+		]
+	},{
+		"name": "Distributed Systems",
+		"keywords": [
+			"CAP Theory",
+			"Raft",
+			"Paxos",
+			"Scaleable Systems",
+			"Big Data"
+		]
+	},{
+		"name": "Machine Learning",
+		"keywords": [
+			"Natural Language Processing",
+			"Nural Networks",
+			"Data Science"
+		]
+	}]
+}
