@@ -9,16 +9,12 @@
 		"summary": "A tenured technologist with a proven record of solid design and reliable deployment",
 		"location": {
 			"address": "9021 Weatherwood Ct",
-			"postalCode": "Va 22182",
-			"city": "Vienna",
+			"postalCode": "Vienna",
+			"city": "VA, 22182",
 			"Country Code": "US",
 			"region": "D.C."
 		},
 		"profiles": [{
-			"network": "Google Plus",
-			"username": "dan.kozlowski",
-			"url": "https://plus.google.com/u/1/+DanKozlowski"
-		},{
 			"network": "GitHub",
 			"username": "dkhenry",
 			"url": "https://github.com/dkhenry"
@@ -30,28 +26,43 @@
 	},
 	"work": [{
 		"company": "United States Digital Service",
+		"position": "Digital System Expert",
 		"website": "https://usds.gov",
 		"startDate": "2016-11-14",
 		"endDate": "2018-11-14",
-		"summary": "Saving lifes and democracy as we know it through better digital service delivery",
+		"summary": "Saving lives and democracy as we know it through better digital service delivery",
 		"highlights": [
-			"Privding access to healthcare, education, and employment for 26 million American veterans",
-			"Consulting with major federal agencies to plan and execut a shift to the cloud for service delivery",
-			"Adapting federal technology policy for modern software development and deployment"
+			"Provided access to health care, education, and employment for 26 million American veterans",
+			"Consulting with major federal agencies to plan and execute a shift to the cloud for service delivery",
+			"Adapting federal technology policy for modern software development and deployment",
+			"Enabling digital transformation of legacy computing systems and infrastructure"
 		]
 	}, {
 		"company": "SevOne",
-		"position": "Director of Engineering / Engineering Fellow Office of CTO",
+		"position": "Engineering Fellow, Office of CTO",
+		"website": "https://sevone.com",
+		"startDate": "2016-03-01",
+		"endDate": "2016-11-01",
+		"summary": "Revitalized software platform for main product, transiting appliance model into cloud ready application",
+		"highlights": [
+			"Transitioned product from monolithic appliance into cloud enabled application",
+			"Designed highly scaleable message passing infrastructure for micro-service operation",
+			"Oversaw and mentored development teams implementing design changes",
+			"Architect ed automated build and deployment systems",
+			"Implemented cloud build out of modernized system"
+		]		
+	}, {
+		"company": "SevOne",
+		"position": "Director of Engineering",
 		"website": "https://sevone.com",
 		"startDate": "2013-09-01",
-		"endDate": "2016-11-01",
+		"endDate": "2016-03-01",
 		"summary": "Led the Engineering department as Director of Engineering",
 		"highlights": [
 			"Helped grow team from start up through billion valuation",
 			"Managed team of sixty developers and forty contractors", 
-			"Provided technical leadership across entire NMS product",
-			"Oversaw multiple major product release cycles from inception to deployment",
-			"Help transition from legacy application environment to cloud based service"
+			"Provided technical leadership across entire Network Monitoring System product",
+			"Oversaw multiple major product release cycles from inception to deployment"
 		]
 	},{
 		"company": "SevOne",
@@ -64,7 +75,7 @@
 			"Designed and implemented multiple new collection technologies for NMS",
 			"Contributed to improved of scaleable clustered data collection platform",
 			"Optimized data storage and retrieval components of NMS system",
-			"Mentored and consulted Jr Developers"
+			"Mentored and consulted junior Developers"
 		]
 	},{
 		"company": "Naval Surface Warfare Center",
@@ -133,7 +144,7 @@
 			"NoSQL",
 			"MySQL",
 			"Relation Databases",
-			"Clusted Datastores",
+			"Clustered Datastores",
 			"Custom Database Development",
 			"Time Series Database"
 		]
