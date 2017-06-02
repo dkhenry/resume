@@ -8,11 +8,11 @@
 		"website": "dkhenry.com",
 		"summary": "A tenured technologist with a proven record of solid design and reliable deployment",
 		"location": {
-			"address": "391 Ivy Mills Rd",
-			"postalCode": "PA 19342",
-			"city": "Glen Mills",
+			"address": "9021 Weatherwood Ct",
+			"postalCode": "Va 22182",
+			"city": "Vienna",
 			"Country Code": "US",
-			"region": "Philadelphia"
+			"region": "D.C."
 		},
 		"profiles": [{
 			"network": "Google Plus",
@@ -23,23 +23,35 @@
 			"username": "dkhenry",
 			"url": "https://github.com/dkhenry"
 		},{
-			"network": "Bitbucket",
+			"network": "Linked In",
 			"username": "dkhenry",
-			"url": "https://bitbucket.org/dkhenry/"
+			"url": "https://linkedin.com/in/dkhenry"
 		}]
 	},
 	"work": [{
+		"company": "United States Digital Service",
+		"website": "https://usds.gov",
+		"startDate": "2016-11-14",
+		"endDate": "2018-11-14",
+		"summary": "Saving lifes and democracy as we know it through better digital service delivery",
+		"highlights": [
+			"Privding access to healthcare, education, and employment for 26 million American veterans",
+			"Consulting with major federal agencies to plan and execut a shift to the cloud for service delivery",
+			"Adapting federal technology policy for modern software development and deployment"
+		]
+	}, {
 		"company": "SevOne",
-		"position": "Director of Engineering",
+		"position": "Director of Engineering / Engineering Fellow Office of CTO",
 		"website": "https://sevone.com",
 		"startDate": "2013-09-01",
-		"endDate": "2015-11-01",
+		"endDate": "2016-11-01",
 		"summary": "Led the Engineering department as Director of Engineering",
 		"highlights": [
 			"Helped grow team from start up through billion valuation",
 			"Managed team of sixty developers and forty contractors", 
 			"Provided technical leadership across entire NMS product",
-			"Oversaw multiple major product release cycles from inception to deployment"
+			"Oversaw multiple major product release cycles from inception to deployment",
+			"Help transition from legacy application environment to cloud based service"
 		]
 	},{
 		"company": "SevOne",
@@ -107,7 +119,7 @@
 		"name": "Continuous Deployment",
 		"level": "Intermediate",
 		"keywords": [
-			"DevOpts",
+			"DevOps",
 			"Cloud",
 			"AWS",
 			"Ansible",
